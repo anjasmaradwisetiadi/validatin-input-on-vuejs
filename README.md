@@ -1,0 +1,1 @@
+# validatin-input-on-vuejs
