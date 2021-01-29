@@ -1,4 +1,4 @@
-# boilerplate-vue-bootstrap
+# Form validation use Vuelidate package on VueJs
 
 ## Project setup
 ```
